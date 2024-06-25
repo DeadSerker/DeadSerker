@@ -4,13 +4,13 @@
  
 ## 💭 Acerca de mí
  
-Graduado en Ciclo Superior de Desarrollo de Aplicaciones Multiplataforma. Además, me encanta aprender y experimentar con nuevas tecnologías.
+Graduado con honores en el Ciclo Superior de Desarrollo de Aplicaciones Multiplataforma. Además, me encanta aprender y experimentar con nuevas tecnologías especialmente si se trata de back-end.
  
 ## 🚀 Habilidades
  
 ### Lenguajes de Programación
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://docs.oracle.com/en/java/)
-[![C#](https://img.shields.io/badge/C#-8A2BE2)](https://learn.microsoft.com/es-es/dotnet/csharp/)
+[![csharp](https://img.shields.io/badge/csharp-8A2BE2?style=for-the-badge&logo=java&logoColor=white)](https://learn.microsoft.com/es-es/dotnet/csharp/)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) 
@@ -22,6 +22,7 @@ Graduado en Ciclo Superior de Desarrollo de Aplicaciones Multiplataforma. Ademá
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot)
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/docs)
 [<img src="https://www.ontimize.com/xwiki/bin/download/Ontimize+Training/WebHome/ontimize-logo.png" alt="Ontimize" height="38" width="105">](https://ontimize.github.io/docs/v3/)
+![Boostrap](https://img.shields.io/badge/Boostrap-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 
 ### Bases de Datos
@@ -29,6 +30,7 @@ Graduado en Ciclo Superior de Desarrollo de Aplicaciones Multiplataforma. Ademá
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/docs/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://docs.mongodb.com/)
 [![DBeaver](https://img.shields.io/badge/DBeaver-00ACC1?style=for-the-badge&logo=dbeaver&logoColor=white)](https://dbeaver.io/)
+[![ModeloORM](https://img.shields.io/badge/Modelo--ORM-8A2BE2?style=for-the-badge&logo=java&logoColor=white)](https://dbeaver.io/)
 
 ### Herramientas
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/doc)
@@ -43,7 +45,9 @@ Graduado en Ciclo Superior de Desarrollo de Aplicaciones Multiplataforma. Ademá
  
 ## 🌱 Actualmente
  
-- Aprendiendo FullStack
+- Aprendiendo Inteligencia artificial y Big Data
+- Conociendo Patrones de programacion
+- Profundizando en Angular
  
 ## 📈 Estadísticas de GitHub
 
@@ -56,13 +60,15 @@ Graduado en Ciclo Superior de Desarrollo de Aplicaciones Multiplataforma. Ademá
 ## 📫 Cómo contactarme
 
  <div> 
-  <a href="https://www.linkedin.com/in/DeadSerker" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="www.linkedin.com/in/cesar-au-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto: cesar.dev@outlook.es"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
  
 ## 🎨 Intereses
  
-- Desarrollo FullStack
+- Desarrollo Back-end
+- Nuevos lenguajes
+- Mas retos
  
 ¡Gracias por visitar mi perfil de GitHub!
