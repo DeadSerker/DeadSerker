@@ -10,7 +10,7 @@ Graduado en Ciclo Superior de Desarrollo de Aplicaciones Multiplataforma. Ademá
  
 ### Lenguajes de Programación
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://docs.oracle.com/en/java/)
-[![C#](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://learn.microsoft.com/es-es/dotnet/csharp/)
+[![C#](https://img.shields.io/badge/C#-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://learn.microsoft.com/es-es/dotnet/csharp/)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) 
