@@ -1,6 +1,6 @@
 
 
-# 👋 Hola, soy Cesar
+# 👋 Hola, soy César Augusto, pero perfiero que me llamen César
  
 ## 💭 Acerca de mí
 
