@@ -3,8 +3,8 @@
 # 👋 Hola, soy Cesar
  
 ## 💭 Acerca de mí
- 
-Graduado con honores en el Ciclo Superior de Desarrollo de Aplicaciones Multiplataforma. Además, me encanta aprender y experimentar con nuevas tecnologías especialmente si se trata de back-end.
+
+Gradué con honores en el Ciclo Superior de Desarrollo de Aplicaciones Multiplataforma. Además, me apasiona aprender y experimentar con nuevas tecnologías, especialmente en lo relacionado con el back-end.
  
 ## 🚀 Habilidades
  
