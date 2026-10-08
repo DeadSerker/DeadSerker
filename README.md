@@ -4,7 +4,7 @@
  
 ## 💭 Acerca de mí
 
-Gradué con honores en el Ciclo Superior de Desarrollo de Aplicaciones Multiplataforma. Además, me apasiona aprender y experimentar con nuevas tecnologías, especialmente en lo relacionado con el back-end.
+Gradué en el Ciclo Superior de Desarrollo de Aplicaciones Multiplataforma. Además, me apasiona aprender y experimentar con nuevas tecnologías, especialmente en lo relacionado con el back-end.
  
 ## 🚀 Habilidades
  
